@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca419c1b-698a-4a0d-a5ec-1ff73644446f" name="htdocs" url="http://localhost/Note_sera">
+        <fileTransfer port="0" mountedRoot="F:\xampp\htdocs\Note_sera" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
